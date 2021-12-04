@@ -9,7 +9,7 @@
 ```sh
 raco pkg install $(cat rako.txt)
 
-raco exe rafetch.rkt
+rako exe rafetch.rkt
 
 ./rafetch
 ```
