@@ -7,7 +7,7 @@
 
 ## Installation
 ```sh
-raco pkg install $(cat rako.txt)
+rako pkg install $(cat rako.txt)
 
 rako exe rafetch.rkt
 
